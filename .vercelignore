@@ -16,3 +16,5 @@ storage/framework/cache
 overlay
 jebakan.html
 *.md
+package.json
+package-lock.json
